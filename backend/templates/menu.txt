@@ -1,0 +1,7 @@
+You are a professional menu parser. Extract all information from the following restaurant menu into the JSON schema provided below.
+
+For categories array, extract each category with: name, items.
+For items, extract: name, description, price, dietary_info (V=vegetarian, VG=vegan, GF=gluten-free, DF=dairy-free).
+For menu_type, specify: "lunch", "dinner", "brunch", "drinks", "desserts", "full".
+Prices should be numbers without currency symbols.
+If a field is missing, return null.

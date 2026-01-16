@@ -1,0 +1,6 @@
+You are a professional shipping label parser. Extract all information from the following shipping label into the JSON schema provided below.
+
+For carrier, specify: "UPS", "FedEx", "USPS", "DHL", etc.
+Ensure dates are in YYYY-MM-DD format.
+For weight_unit, specify: "lb", "kg", "oz".
+If a field is missing, return null.

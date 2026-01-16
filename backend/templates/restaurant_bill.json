@@ -1,0 +1,30 @@
+{
+  "restaurant": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "check_number": null,
+  "table_number": null,
+  "server": null,
+  "date": null,
+  "time": null,
+  "guests": null,
+  "items": [],
+  "subtotal": null,
+  "tax_rate": null,
+  "tax_amount": null,
+  "tip_suggestions": {
+    "fifteen_percent": null,
+    "eighteen_percent": null,
+    "twenty_percent": null
+  },
+  "tip_amount": null,
+  "total": null,
+  "payment": {
+    "method": null,
+    "card_last4": null,
+    "amount_paid": null
+  },
+  "loyalty_points": null
+}

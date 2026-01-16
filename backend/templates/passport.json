@@ -1,0 +1,16 @@
+{
+  "document_type": "passport",
+  "country_code": null,
+  "passport_number": null,
+  "surname": null,
+  "given_names": null,
+  "nationality": null,
+  "date_of_birth": null,
+  "gender": null,
+  "place_of_birth": null,
+  "issue_date": null,
+  "expiration_date": null,
+  "issuing_authority": null,
+  "mrz_line1": null,
+  "mrz_line2": null
+}

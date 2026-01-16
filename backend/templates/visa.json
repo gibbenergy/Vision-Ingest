@@ -1,0 +1,18 @@
+{
+  "visa_type": null,
+  "visa_category": null,
+  "visa_number": null,
+  "issuing_country": null,
+  "holder_name": null,
+  "passport_number": null,
+  "nationality": null,
+  "date_of_birth": null,
+  "gender": null,
+  "issue_date": null,
+  "expiration_date": null,
+  "entries": null,
+  "duration_of_stay": null,
+  "purpose": null,
+  "issuing_post": null,
+  "annotations": null
+}

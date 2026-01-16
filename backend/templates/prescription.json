@@ -1,0 +1,34 @@
+{
+  "prescriber": {
+    "name": null,
+    "credentials": null,
+    "npi": null,
+    "dea_number": null,
+    "phone": null,
+    "address": null
+  },
+  "patient": {
+    "name": null,
+    "date_of_birth": null,
+    "address": null
+  },
+  "prescription_date": null,
+  "medication": {
+    "name": null,
+    "strength": null,
+    "form": null,
+    "ndc": null
+  },
+  "directions": null,
+  "quantity": null,
+  "days_supply": null,
+  "refills": null,
+  "daw": null,
+  "pharmacy": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "fill_date": null,
+  "rx_number": null
+}

@@ -1,0 +1,31 @@
+{
+  "po_number": null,
+  "po_date": null,
+  "buyer": {
+    "company": null,
+    "address": null,
+    "contact_name": null,
+    "phone": null,
+    "email": null
+  },
+  "vendor": {
+    "company": null,
+    "address": null,
+    "contact_name": null,
+    "phone": null,
+    "email": null
+  },
+  "ship_to": {
+    "address": null,
+    "attention": null
+  },
+  "items": [],
+  "subtotal": null,
+  "tax": null,
+  "shipping_cost": null,
+  "total": null,
+  "delivery_date": null,
+  "payment_terms": null,
+  "shipping_method": null,
+  "special_instructions": null
+}

@@ -1,0 +1,7 @@
+You are a professional restaurant bill parser. Extract all information from the following restaurant check/bill into the JSON schema provided below.
+
+For items array, extract each item with: name, quantity, unit_price, total.
+Ensure dates are in YYYY-MM-DD format.
+Ensure times are in HH:MM format.
+All monetary values should be numbers without currency symbols.
+If a field is missing, return null.

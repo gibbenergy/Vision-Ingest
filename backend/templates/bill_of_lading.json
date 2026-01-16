@@ -1,0 +1,34 @@
+{
+  "bol_number": null,
+  "bol_date": null,
+  "carrier": {
+    "name": null,
+    "scac_code": null
+  },
+  "shipper": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "consignee": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "notify_party": {
+    "name": null,
+    "address": null
+  },
+  "vessel": null,
+  "voyage_number": null,
+  "port_of_loading": null,
+  "port_of_discharge": null,
+  "place_of_delivery": null,
+  "goods": [],
+  "total_packages": null,
+  "total_weight": null,
+  "total_volume": null,
+  "freight_charges": null,
+  "payment_terms": null,
+  "special_instructions": null
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": {
+    "name": null,
+    "cuisine_type": null,
+    "address": null,
+    "phone": null,
+    "website": null
+  },
+  "menu_type": null,
+  "categories": [],
+  "specials": [],
+  "dietary_options": {
+    "vegetarian": [],
+    "vegan": [],
+    "gluten_free": [],
+    "dairy_free": []
+  },
+  "notes": null,
+  "last_updated": null
+}

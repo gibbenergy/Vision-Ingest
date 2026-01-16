@@ -1,0 +1,30 @@
+{
+  "vendor": {
+    "name": null,
+    "address": null,
+    "phone": null,
+    "email": null,
+    "tax_id": null
+  },
+  "customer": {
+    "name": null,
+    "address": null,
+    "account_number": null
+  },
+  "invoice_details": {
+    "invoice_number": null,
+    "invoice_date": null,
+    "due_date": null,
+    "payment_terms": null,
+    "currency": null
+  },
+  "items": [],
+  "subtotal": null,
+  "tax_rate": null,
+  "tax_amount": null,
+  "discount": null,
+  "shipping": null,
+  "total": null,
+  "payment_instructions": null,
+  "notes": null
+}

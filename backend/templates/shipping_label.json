@@ -1,0 +1,37 @@
+{
+  "carrier": null,
+  "service_type": null,
+  "tracking_number": null,
+  "sender": {
+    "name": null,
+    "company": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country": null,
+    "phone": null
+  },
+  "recipient": {
+    "name": null,
+    "company": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country": null,
+    "phone": null
+  },
+  "package": {
+    "weight": null,
+    "weight_unit": null,
+    "dimensions": null,
+    "package_type": null
+  },
+  "ship_date": null,
+  "delivery_date": null,
+  "reference_numbers": [],
+  "special_instructions": null,
+  "signature_required": null,
+  "insurance_value": null
+}

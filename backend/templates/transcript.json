@@ -1,0 +1,33 @@
+{
+  "institution": {
+    "name": null,
+    "address": null,
+    "phone": null,
+    "ceeb_code": null
+  },
+  "student": {
+    "name": null,
+    "student_id": null,
+    "date_of_birth": null,
+    "enrollment_date": null,
+    "graduation_date": null
+  },
+  "degree": {
+    "type": null,
+    "major": null,
+    "minor": null,
+    "concentration": null
+  },
+  "academic_summary": {
+    "cumulative_gpa": null,
+    "major_gpa": null,
+    "total_credits": null,
+    "credits_earned": null,
+    "class_rank": null,
+    "honors": null
+  },
+  "semesters": [],
+  "transfer_credits": [],
+  "issue_date": null,
+  "registrar": null
+}

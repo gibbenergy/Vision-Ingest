@@ -1,0 +1,35 @@
+{
+  "declaration_number": null,
+  "declaration_date": null,
+  "declarant": {
+    "name": null,
+    "address": null,
+    "tax_id": null,
+    "phone": null
+  },
+  "importer_exporter": {
+    "name": null,
+    "address": null,
+    "license_number": null
+  },
+  "country_of_origin": null,
+  "country_of_destination": null,
+  "port_of_entry": null,
+  "mode_of_transport": null,
+  "vessel_flight": null,
+  "items": [],
+  "total_packages": null,
+  "total_weight": null,
+  "total_value": null,
+  "currency": null,
+  "duties_taxes": {
+    "customs_duty": null,
+    "vat": null,
+    "other_taxes": null,
+    "total": null
+  },
+  "broker": {
+    "name": null,
+    "license_number": null
+  }
+}

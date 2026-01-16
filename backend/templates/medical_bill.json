@@ -1,0 +1,35 @@
+{
+  "provider": {
+    "name": null,
+    "address": null,
+    "phone": null,
+    "npi": null,
+    "tax_id": null
+  },
+  "patient": {
+    "name": null,
+    "account_number": null,
+    "date_of_birth": null,
+    "address": null
+  },
+  "insurance": {
+    "company": null,
+    "policy_number": null,
+    "group_number": null
+  },
+  "statement_date": null,
+  "service_dates": {
+    "from": null,
+    "to": null
+  },
+  "services": [],
+  "charges": {
+    "total_charges": null,
+    "insurance_adjustments": null,
+    "insurance_paid": null,
+    "patient_responsibility": null,
+    "amount_due": null
+  },
+  "payment_due_date": null,
+  "payment_options": null
+}

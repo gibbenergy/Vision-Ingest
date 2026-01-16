@@ -1,0 +1,53 @@
+{
+  "lease_type": null,
+  "property": {
+    "type": null,
+    "address": null,
+    "unit_number": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "square_feet": null
+  },
+  "landlord": {
+    "name": null,
+    "address": null,
+    "phone": null,
+    "email": null
+  },
+  "tenant": {
+    "name": null,
+    "current_address": null,
+    "phone": null,
+    "email": null,
+    "employer": null
+  },
+  "term": {
+    "start_date": null,
+    "end_date": null,
+    "type": null
+  },
+  "rent": {
+    "monthly_amount": null,
+    "due_day": null,
+    "late_fee": null,
+    "grace_period_days": null,
+    "payment_method": null
+  },
+  "deposits": {
+    "security_deposit": null,
+    "pet_deposit": null,
+    "other_deposits": null
+  },
+  "utilities": {
+    "included": [],
+    "tenant_responsible": []
+  },
+  "pets": {
+    "allowed": null,
+    "restrictions": null,
+    "pet_rent": null
+  },
+  "occupants": [],
+  "rules": [],
+  "signatures": []
+}

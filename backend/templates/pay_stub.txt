@@ -1,0 +1,6 @@
+You are a professional pay stub parser. Extract all information from the following pay stub into the JSON schema provided below.
+
+Ensure dates are in YYYY-MM-DD format.
+Ensure all monetary values are numbers without currency symbols.
+YTD means Year-to-Date totals.
+If a field is missing, return null.

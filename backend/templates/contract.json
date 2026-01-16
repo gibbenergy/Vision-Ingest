@@ -1,0 +1,22 @@
+{
+  "contract_type": null,
+  "contract_number": null,
+  "effective_date": null,
+  "expiration_date": null,
+  "parties": [],
+  "terms": {
+    "duration": null,
+    "renewal": null,
+    "termination_notice": null
+  },
+  "financial": {
+    "total_value": null,
+    "payment_schedule": null,
+    "currency": null
+  },
+  "key_obligations": [],
+  "governing_law": null,
+  "signatures": [],
+  "amendments": [],
+  "attachments": []
+}

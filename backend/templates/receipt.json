@@ -1,0 +1,20 @@
+{
+  "vendor": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "transaction": {
+    "date": null,
+    "time": null,
+    "receipt_number": null
+  },
+  "items": [],
+  "subtotal": null,
+  "tax": null,
+  "total": null,
+  "payment": {
+    "method": null,
+    "card_last_four": null
+  }
+}

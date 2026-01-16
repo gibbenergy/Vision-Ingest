@@ -1,0 +1,26 @@
+{
+  "school": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "student": {
+    "name": null,
+    "student_id": null,
+    "grade_level": null,
+    "homeroom": null,
+    "teacher": null
+  },
+  "academic_year": null,
+  "grading_period": null,
+  "subjects": [],
+  "attendance": {
+    "days_present": null,
+    "days_absent": null,
+    "days_tardy": null
+  },
+  "conduct": null,
+  "teacher_comments": null,
+  "parent_signature_required": null,
+  "next_grading_period": null
+}

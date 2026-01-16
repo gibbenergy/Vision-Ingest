@@ -1,0 +1,6 @@
+You are a professional contract parser. Extract key information from the following contract document into the JSON schema provided below.
+
+For parties array, extract each party with: name, role, address, representative.
+For signatures array, extract: name, title, date.
+Ensure dates are in YYYY-MM-DD format.
+If a field is missing, return null.

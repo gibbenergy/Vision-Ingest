@@ -1,0 +1,50 @@
+{
+  "employer": {
+    "name": null,
+    "address": null
+  },
+  "employee": {
+    "name": null,
+    "id": null,
+    "department": null
+  },
+  "pay_period": {
+    "start_date": null,
+    "end_date": null,
+    "pay_date": null
+  },
+  "earnings": {
+    "regular_hours": null,
+    "regular_rate": null,
+    "regular_pay": null,
+    "overtime_hours": null,
+    "overtime_rate": null,
+    "overtime_pay": null,
+    "bonus": null,
+    "commission": null,
+    "other": null,
+    "gross_pay": null
+  },
+  "deductions": {
+    "federal_tax": null,
+    "state_tax": null,
+    "local_tax": null,
+    "social_security": null,
+    "medicare": null,
+    "health_insurance": null,
+    "dental_insurance": null,
+    "vision_insurance": null,
+    "retirement_401k": null,
+    "other_deductions": null,
+    "total_deductions": null
+  },
+  "net_pay": null,
+  "ytd": {
+    "gross_pay": null,
+    "federal_tax": null,
+    "state_tax": null,
+    "social_security": null,
+    "medicare": null,
+    "net_pay": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "bank": {
+    "name": null,
+    "address": null,
+    "phone": null
+  },
+  "account": {
+    "holder_name": null,
+    "account_number": null,
+    "account_type": null,
+    "routing_number": null
+  },
+  "statement_period": {
+    "start_date": null,
+    "end_date": null
+  },
+  "balances": {
+    "opening_balance": null,
+    "closing_balance": null,
+    "average_balance": null
+  },
+  "summary": {
+    "total_deposits": null,
+    "total_withdrawals": null,
+    "total_fees": null,
+    "interest_earned": null
+  },
+  "transactions": []
+}

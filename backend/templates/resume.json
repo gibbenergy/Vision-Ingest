@@ -1,0 +1,73 @@
+{
+  "name_prefix": "",
+  "full_name": "",
+  "email": "",
+  "phone": "",
+  "current_address": "",
+  "location": "",
+  "citizenship": "",
+  "linkedin_url": "",
+  "github_url": "",
+  "portfolio_url": "",
+  "summary": "",
+  "education": [
+    {
+      "institution": "",
+      "degree": "",
+      "field_of_study": "",
+      "gpa": "",
+      "start_date": "",
+      "end_date": "",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "position": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "description": "",
+      "achievements": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "",
+      "name": "",
+      "proficiency": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "technologies": "",
+      "url": "",
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "",
+      "issuer": "",
+      "date_obtained": "",
+      "credential_id": "",
+      "url": ""
+    }
+  ],
+  "others": {
+    "section_name": [
+      {
+        "title": "",
+        "organization": "",
+        "date": "",
+        "location": "",
+        "description": "",
+        "url": ""
+      }
+    ]
+  }
+}

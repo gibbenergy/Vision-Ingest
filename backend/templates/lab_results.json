@@ -1,0 +1,28 @@
+{
+  "laboratory": {
+    "name": null,
+    "address": null,
+    "phone": null,
+    "clia_number": null
+  },
+  "patient": {
+    "name": null,
+    "date_of_birth": null,
+    "gender": null,
+    "patient_id": null
+  },
+  "ordering_physician": {
+    "name": null,
+    "npi": null
+  },
+  "specimen": {
+    "collection_date": null,
+    "collection_time": null,
+    "received_date": null,
+    "specimen_type": null
+  },
+  "report_date": null,
+  "tests": [],
+  "comments": null,
+  "pathologist": null
+}

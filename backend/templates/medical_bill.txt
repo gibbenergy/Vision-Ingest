@@ -1,0 +1,6 @@
+You are a professional medical bill parser. Extract all information from the following medical bill into the JSON schema provided below.
+
+For services array, extract each service with: date, cpt_code, description, quantity, charges.
+Ensure dates are in YYYY-MM-DD format.
+Ensure all monetary values are numbers without currency symbols.
+If a field is missing, return null.

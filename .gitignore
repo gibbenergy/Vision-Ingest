@@ -1,0 +1,416 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+.conda/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+secrets/
+.secrets/
+config/secrets.*
+**/secrets.*
+**/*secret*
+**/*key*
+**/*password*
+**/*token*
+**/*api_key*
+**/*apikey*
+**/*credentials*
+**/*credential*
+
+# API Keys and Personal Information
+**/api_keys.*
+**/api-keys.*
+**/keys.*
+**/tokens.*
+**/credentials.*
+**/personal_info.*
+**/user_data.*
+**/private.*
+**/confidential.*
+
+# SSH Keys
+id_rsa*
+id_dsa*
+id_ed25519*
+id_ecdsa*
+*.pem
+
+# Certificates and Keystores
+*.pfx
+*.p12
+*.jks
+*.keystore
+*.crt
+*.cer
+*.der
+
+# Cloud Provider Credentials
+.aws/
+.gcloud/
+.azure/
+credentials.json
+
+# Auth and Registry Files
+.netrc
+_netrc
+.npmrc
+.pypirc
+*.htpasswd
+.kdbx
+
+# GPG Keys
+.gnupg/
+*.gpg
+*.asc
+
+# Cursor IDE files
+.cursor/
+.cursorrules
+.cursorignore
+*.cursor
+
+# Claude Code
+.claude/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+*.log.*
+logs/
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Temp files and uploads
+backend/temp/*
+!backend/temp/.gitkeep
+backend/uploads/*
+!backend/uploads/.gitkeep
+temp/
+tmp/
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# Model cache and weights
+models/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.tflite
+*.pkl
+*.pickle
+*.joblib
+*.model
+checkpoints/
+weights/
+*.weights
+
+# Data files (personal info, user data, etc.)
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.hdf5
+*.h5
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+*.mdb
+*.accdb
+
+# User uploads and personal documents
+uploads/
+user_uploads/
+user_data/
+personal_files/
+documents/
+resumes/
+*.pdf
+*.doc
+*.docx
+*.odt
+*.rtf
+
+# Images (except examples and assets)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+!example.*
+!thumb_*.png
+!caregiver_resume_template_crisp.png
+!assets/
+!assets/*
+
+# Test outputs
+test_output.*
+test_*.json
+test_*.txt
+test_*.md
+*.test.*
+coverage/
+.coverage
+.nyc_output/
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.turbo/
+frontend/.vercel/
+frontend/.svelte-kit/
+frontend/.nuxt/
+frontend/.output/
+frontend/.cache/
+
+# Backend
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/.coverage
+backend/htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+*.ipynb
+
+# Documentation (development docs only, keep README)
+doc/
+docs/dev/
+docs/internal/
+*.md
+!README.md
+!LICENSE
+!CHANGELOG.md
+!ABOUT.md
+
+# HTML files (generated)
+*.html
+
+# Misc junk files
+.Rhistory
+nul
+
+# System files
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*~
+.#*
+\#*#
+.*.swp
+.*.swo
+
+# Package manager locks (optional - uncomment if you want to ignore)
+# package-lock.json
+# yarn.lock
+# poetry.lock
+# Pipfile.lock
+
+# Local configuration
+local_config.*
+local.*
+*.local
+config.local.*
+settings.local.*
+
+# Profiling
+*.prof
+*.pstats
+*.lprof
+
+# Compiled extensions
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.gz
+
+# MacOS
+.AppleDouble
+.LSOverride
+Icon
+._.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+
+# TypeScript
+*.tsbuildinfo
+.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# parcel-bundler cache
+.parcel-cache
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+storybook-static
+
+# Temporary folders
+tmp/
+temp/
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

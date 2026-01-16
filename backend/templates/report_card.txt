@@ -1,0 +1,5 @@
+You are a professional report card parser. Extract all information from the following report card into the JSON schema provided below.
+
+For subjects array, extract each subject with: name, grade, percentage, teacher, comments.
+Ensure dates are in YYYY-MM-DD format.
+If a field is missing, return null.

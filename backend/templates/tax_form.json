@@ -1,0 +1,35 @@
+{
+  "form_type": null,
+  "tax_year": null,
+  "employer": {
+    "name": null,
+    "ein": null,
+    "address": null
+  },
+  "employee": {
+    "name": null,
+    "ssn_last4": null,
+    "address": null
+  },
+  "wages_and_income": {
+    "wages_tips": null,
+    "federal_tax_withheld": null,
+    "social_security_wages": null,
+    "social_security_tax": null,
+    "medicare_wages": null,
+    "medicare_tax": null
+  },
+  "state_info": {
+    "state": null,
+    "state_wages": null,
+    "state_tax_withheld": null
+  },
+  "local_info": {
+    "locality": null,
+    "local_wages": null,
+    "local_tax_withheld": null
+  },
+  "other_compensation": null,
+  "retirement_plan": null,
+  "third_party_sick_pay": null
+}
